@@ -2,17 +2,23 @@
 
 ##### <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="35"/>Nice to meet you!
 
-[Paragraph about me]
+I am a self-taught Full-stack developer accredited by UC Berkeley Extension, with a penchant for Back-End and Blockchain technologies.
+
+Here you can find some of the projects I worked on.
+All of my work is open source and can be copied freely.
+
+Enjoy!
+
 
 <details>
   <summary><b>About me</b></summary>
   <div>
-    <ul>🔭 I’m currently working on ... an updated portfolio.</ul>
-    <ul>🌱 I’m currently learning Typescript!</ul>
+    <ul>🔭 I’m currently working on ... an internal project for Google!</ul>
+    <ul>🌱 I’m currently learning ... Typescript!</ul>
     <ul>👯 I’m looking to collaborate on ... any project. Big or small.</ul>
     <ul>🤔 I’m looking for help with ... deciding what to cook for dinner every night</ul>
-    <ul>💬 Ask me about ... productivity!</ul>
-    <ul>📫 How to reach me: ... cheng21tang@gmail.com</ul>
+    <ul>💬 Ask me about ... my cats!</ul>
+    <ul>📫 How to reach me: ... dylancouzon@gmail.com</ul>
     <ul>⚡ Fun fact: ... I was raised in France and used to be a Pastry chef!</ul>
   </div>
 </details>
