@@ -28,9 +28,6 @@
 
 <br/>
 
-[![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylancouzon&show_icons=true&theme=tokyonight)](https://github.com/cheng21tang/github-readme-stats) 
-
-
 ### Languages & Technologies
 
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75" alt="javascript" /><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" atl="html" /><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75" alt="css" /><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75" alt="react.js" /><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="75" alt="node.js" /><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="75" alt="bootstrap"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="75" alt="python" /><img src="https://media.giphy.com/media/v08ZSxAkyHsUTdfvao/giphy.gif" width="75" alt="git" /><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="75" alt="vs code" />
