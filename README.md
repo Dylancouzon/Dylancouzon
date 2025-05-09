@@ -1,51 +1,41 @@
-# Hi, I'm Dylan.
+# 👋 Hi, I'm Dylan Couzon
 
-##### <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="35"/>Nice to meet you!
+Welcome to my GitHub! I'm an engineer passionate about scalable infrastructure, real-time data systems, and developer-focused tools. I currently work at **[Arize AI](https://www.arize.com/)** where I'm building solutions to help teams deliver trustworthy machine learning and LLM applications in production.
 
-I am a self-taught Full-stack developer accredited by UC Berkeley Extension, with a penchant for Back-End and Blockchain technologies.
+## 🚀 What I’m Working On
 
-Here you can find some of the projects I worked on.
-All of my work is open source and can be copied freely.
+- 🏢 **Arize AX** – Arize AI’s enterprise observability platform for both **ML models** and **LLM applications**, enabling end-to-end monitoring, tracing, and performance insights.
+- 🌱 **[Phoenix](https://github.com/Arize-ai/phoenix)** – Our open-source observability library focused specifically on **LLM observability**, designed to help teams inspect and debug prompts, traces, and agentic workflows.
 
-Enjoy!
+## 🔍 Interests & Focus Areas
 
+- Machine Learning & LLM Infrastructure
+- Observability, Evaluation, and Monitoring
+- Agentic Workflows & Tool-Using LLMs
+- Real-Time Feedback Loops for Production AI
+- GraphQL APIs and Data Ingestion at Scale
+- Developer Tooling and Open-Source Software
 
-<details>
-  <summary><b>About me</b></summary>
-  <div>
-    <ul>🔭 I’m currently working on ... an internal project for Google!</ul>
-    <ul>🌱 I’m currently learning ... Typescript!</ul>
-    <ul>👯 I’m looking to collaborate on ... any project. Big or small.</ul>
-    <ul>🤔 I’m looking for help with ... deciding what to cook for dinner every night</ul>
-    <ul>💬 Ask me about ... my cats!</ul>
-    <ul>📫 How to reach me: ... dylancouzon@gmail.com</ul>
-    <ul>⚡ Fun fact: ... I was raised in France and used to be a Pastry chef!</ul>
-  </div>
-</details>
+## 🧰 Languages & Tools
 
-<br/>
-  
-<!-- repo for *github-readme-stats* -->
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Dylancouzon&show_icons=true&theme=tokyonight" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylancouzon&layout=compact&theme=tokyonight" height="200em" />
-  
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" />
+</p>
 
-<br/>
+## 📫 Connect with Me
 
-### Languages & Technologies
-
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75" alt="javascript" /><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" atl="html" /><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75" alt="css" /><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75" alt="react.js" /><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="75" alt="node.js" /><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="75" alt="bootstrap"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="75" alt="python" /><img src="https://media.giphy.com/media/v08ZSxAkyHsUTdfvao/giphy.gif" width="75" alt="git" /><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="75" alt="vs code" />
-<br/>
-
-The rest of my stack:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express logo logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars logo" width="50" height="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest logo" width="50" height="50">
+- 📧 Email: dcouzon@arize.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dylancouzon)
+- 🛠️ [Phoenix on GitHub](https://github.com/Arize-ai/phoenix)
 
 
-<br/>
+---
 
-### You can also connect with me here:
-[![Email](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:dylancouzon@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcouzon)
-
+Thanks for stopping by! Feel free to reach out if you want to collaborate on anything related to ML, LLMs, or developer tools.
