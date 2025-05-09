@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm an engineer passionate about scalable infrastructure, 
 
 ## 📫 Connect with Me
 
-- 📧 Email: dcouzon@arize.com
+- 📧 dcouzon@arize.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylancouzon)
 - 🛠️ [Phoenix on GitHub](https://github.com/Arize-ai/phoenix)
 
