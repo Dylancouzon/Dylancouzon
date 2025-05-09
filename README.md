@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm an engineer passionate about scalable infrastructure, 
 ## 🚀 What I’m Working On
 
 - 🏢 **Arize AX** – Arize AI’s enterprise observability platform for both **ML models** and **LLM applications**, enabling end-to-end monitoring, tracing, and performance insights.
-- 🌱 **[Phoenix](https://github.com/Arize-ai/phoenix)** – Our open-source observability library focused specifically on **LLM observability**, designed to help teams inspect and debug prompts, traces, and agentic workflows.
+- 🌱 **Phoenix** – Our open-source observability library focused specifically on **LLM observability**, designed to help teams inspect and debug prompts, traces, and agentic workflows.
 
 ## 🔍 Interests & Focus Areas
 
